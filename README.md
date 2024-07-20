@@ -1,5 +1,5 @@
 
-[PROJECT LIVE DEMO](mazemapper.netlify.app)
+[PROJECT LIVE DEMO](https://mazemapper.netlify.app/)
 
 This project is hosted on netlify app (mazemapper.netlify.app)
 
